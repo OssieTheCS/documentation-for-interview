@@ -5,6 +5,7 @@
 To define a custom field, you need to add a `customFieldDefinitions` array to your iris app manifest:
 
 ```json
+{
   customFieldDefinitions: [
     {
       type: 'STRING',
@@ -15,6 +16,7 @@ To define a custom field, you need to add a `customFieldDefinitions` array to yo
       uiVisible: true
     }
   ]
+}
 ```
 
 
