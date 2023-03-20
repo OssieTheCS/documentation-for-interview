@@ -3,14 +3,16 @@
 
 This documentation provides a comprehensive guide on using the Trackunit SDK to create and manage custom fields. The guide covers the following topics:
 
-1.  [Defining a Custom Field](#defining-a-custom-field)
-2.  [Changing Custom Field Definitions](#changing-custom-field-definitions)
-3.  [Deploying a New Custom Field](#deploying-a-new-custom-field)
-4.  [Local Development](#local-development)
-5.  [Using a Custom Field](#using-a-custom-field)
+1.  [The benefits of using custom fields](#the-benefits-of-using-custom-fields)
+2.  [Local Development](#local-development)
+3.  [Defining a Custom Field](#defining-a-custom-field)
+4.  [Changing Custom Field Definitions](#changing-custom-field-definitions)
+5.  [Deploying a New Custom Field](#deploying-a-new-custom-field)
+6.  [Using a Custom Field](#using-a-custom-field)
 
 ## The benefits of using custom fields
 Before diving into how to use custom fields, it is helpful to understand what the benefits are and in which  scenarios to consider using the feature. Here are a few examples:
+
 
  1. **Fleet Management and Monitoring**: You might want to use custom fields to store additional information about vehicles in your fleet, such as fuel consumption, tire pressure, or custom vehicle attributes. This data can then be used to optimize routes, monitor vehicle health, and schedule preventative maintenance, ultimately reducing operating costs and improving fleet efficiency.
 
